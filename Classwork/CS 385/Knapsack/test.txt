@@ -1,0 +1,14 @@
+lamp,2,12
+towel,1,10
+C++ textbook,3,20
+clock,2,15
+frozen lunches,10,50
+laptop,7,1400
+Samsung Galaxy phone,1,200
+1 ream of paper,2,5
+color printer,25,400
+sneakers,1,79
+vitamins,1,17
+pillow,1,11
+diamond watch,1,2500
+blender,5,129
